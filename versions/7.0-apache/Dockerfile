@@ -1,4 +1,4 @@
-FROM imatic/debian:stable
+FROM imatic/debian:stretch
 MAINTAINER Stepan Koci <stepan.koci@gmail.com>
 
 ENV TERM xterm
